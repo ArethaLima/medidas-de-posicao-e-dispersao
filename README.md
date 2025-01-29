@@ -1,5 +1,8 @@
-Estatística - Medidas de posição e dispersão - Paarte I
+<h2>Estatística - Medidas de posição e dispersão - Parte I</h2>
 
-Média aritmética, moda e mediana
-Média aritmética ponderada
-Média geométrica, harmônica e quadrática 
+<ul>  
+
+  <li>Média aritmética, moda e mediana</li>
+  <li>Média aritmética ponderada</li>
+  <li>Média geométrica, harmônica e quadrática</li>
+</ul>  
